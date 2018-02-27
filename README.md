@@ -1,6 +1,4 @@
-https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
-n3 learning
-
+## Python3 Learning
 ------
 
 ### 新建python3-learning项目
@@ -36,4 +34,15 @@ To git@github.com:wyt/python3-learning.git
 分支 master 设置为跟踪来自 origin 的远程分支 master。
 wangyt@wangyt-virtual-machine:~/data01/github/python3-learning$ 
 ```
+
+### Python Hello
+
+1. python hello
+
+   见hello.py, 设置成可执行文件, 添加头 #!/usr/bin/env python3
+
+2. python calc
+
+   见calc.py, python数学计算示例.
+
 
