@@ -3,6 +3,7 @@
 
 ### 更改Ubuntu默认python版本
 
+```bash
 wangyt@wangyt-virtual-machine:~$ python --version
 Python 2.7.12
 wangyt@wangyt-virtual-machine:~$ whereis python
@@ -14,6 +15,7 @@ wangyt@wangyt-virtual-machine:~$ vim .bashrc
 末尾追加：
 
 alias python='/usr/bin/python3.5'
+```
 
 
 ### 新建python3-learning项目
