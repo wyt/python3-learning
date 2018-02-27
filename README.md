@@ -1,6 +1,21 @@
 ## Python3 Learning
 ------
 
+### 更改Ubuntu默认python版本
+
+wangyt@wangyt-virtual-machine:~$ python --version
+Python 2.7.12
+wangyt@wangyt-virtual-machine:~$ whereis python
+python: /usr/bin/python3.5 /usr/bin/python3.5m /usr/bin/python2.7 /usr/bin/python /usr/lib/python3.5 /usr/lib/python2.7 /etc/python3.5 /etc/python2.7 /etc/python /usr/local/lib/python3.5 /usr/local/lib/python2.7 /usr/include/python3.5m /usr/share/python /usr/share/man/man1/python.1.gz
+wangyt@wangyt-virtual-machine:~$ 
+wangyt@wangyt-virtual-machine:~$ 
+wangyt@wangyt-virtual-machine:~$ vim .bashrc
+
+末尾追加：
+
+alias python='/usr/bin/python3.5'
+
+
 ### 新建python3-learning项目
 
 ```bash
