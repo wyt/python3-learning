@@ -45,4 +45,6 @@ wangyt@wangyt-virtual-machine:~/data01/github/python3-learning$
 
    见calc.py, python数学计算示例.
 
+TODO 第一个python程序 -> 输入和输出
+
 
