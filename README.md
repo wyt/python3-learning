@@ -1,6 +1,10 @@
 ## Python3 Learning
 ------
 
+参考资料：
+
+[Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，廖雪峰
+
 ### 更改Ubuntu默认python版本
 
 ```bash
